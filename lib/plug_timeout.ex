@@ -1,0 +1,2 @@
+defmodule PlugTimeout do
+end
